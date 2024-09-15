@@ -1,0 +1,18 @@
+{
+  "name": "gender_detection_js",
+  "version": "1.0.0",
+  "description": "## Overview This project demonstrates a gender detection model using TensorFlow and Keras. The model is trained on a dataset of images classified by gender (male/female).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.21.0",
+    "@tensorflow/tfjs-node": "^4.21.0",
+    "argparse": "^2.0.1",
+    "canvas": "^2.11.2"
+  }
+}
